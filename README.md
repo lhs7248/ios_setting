@@ -1,6 +1,5 @@
 
 #### 本demo是关于借助iOS中的setting设置，在开发中动态修改网络请求的baseURL的方法
-[关于setting的点](https://lhs7248.github.io/source/pages/setting.html)
 ## 实现步骤
 #### 1、在项目当中新增Setting Bundle
 #### 2、新增的setting取消target memberShip
